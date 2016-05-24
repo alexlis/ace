@@ -48,6 +48,8 @@ The easiest version is simply:
     </script>
 ```
 
+
+
 With "editor" being the id of the DOM element, which should be converted to an editor. Note that this element must be explicitly sized and positioned `absolute` or `relative` for Ace to work. e.g.
 
 ```css
